@@ -40,3 +40,23 @@ Expected signal keys (JSON input):
 - Add live Exchange Online cmdlet ingestion mode.
 - Add HTML report mode for incident handoff.
 - Add Pester tests for branch correctness.
+
+## SEO & AI Search Keywords
+**Primary search title:** Shared Mailbox Access RCA for Exchange Online
+
+**Target keywords:**
+- shared mailbox access denied exchange online
+- sendas fullaccess troubleshooting
+- microsoft 365 shared mailbox delay
+- mailbox permission propagation
+
+**High-intent AI search questions:**
+- Why shared mailbox permission not working yet?
+- How to troubleshoot FullAccess and SendAs issues?
+- What to do after permission assignment delay?
+
+**On-page SEO notes:**
+- Keep issue-first headings (problem -> diagnosis -> next step).
+- Include command examples with realistic placeholders only.
+- Repeat key terms naturally in H1/H2, intro, and troubleshooting sections.
+- Add incident outcome language: root cause, remediation, validation, prevention.
